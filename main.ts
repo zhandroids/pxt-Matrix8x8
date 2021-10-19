@@ -698,7 +698,7 @@ namespace Matrix {
         strip._mode = mode;
         strip._matrixWidth = 0;
         strip.setBrightness(255)
-        strip.setPin(DigitalPin.P12)
+        strip.setPin(DigitalPin.P16)
         return strip;
     }
 
